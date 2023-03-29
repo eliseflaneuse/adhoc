@@ -1,2 +1,0 @@
-# adhoc
-Adhoc Landing Page
